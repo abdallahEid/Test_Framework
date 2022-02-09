@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class TestFile {
+    func printFile(){
+        print("This File")
+    }
+}
